@@ -1,0 +1,9 @@
+1	Customer	Create an account	I can use the fuel delivery service	User can register with a valid email/phone and receive a confirmation message.
+2	Customer	Login to the system	I can access my account securely	Valid credentials allow successful login.
+3	Customer	Reset my password	I can regain access to my account	OTP verification allows password reset.
+4	Customer	View fuel types and prices	I can choose the required fuel	Available fuel types and current prices are displayed.
+5	Customer	Place a fuel order	I receive fuel at my location	Order is placed only with a valid delivery address.
+6	Customer	Schedule delivery	I receive fuel at a convenient time	Available delivery slots are shown.
+7	Customer	Make an online payment	I can pay securely	Payment is processed and receipt is generated.
+8	Customer	Track my order	I know the delivery progress	Real-time order status is displayed.
+9	Customer	Submit a complaint or review	My issues or feedback are recorded	Complaint/review is saved successfully.

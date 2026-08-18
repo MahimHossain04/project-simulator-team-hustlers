@@ -1,0 +1,8 @@
+27	Supplier	Login to the system	I can access my supplier dashboard	Valid credentials allow login.
+28	Supplier	Receive restock requests	I know what fuel to supply	Restock request details are displayed.
+29	Supplier	Accept or reject restock requests	Admin knows my response	Request status is updated successfully.
+30	Supplier	Confirm fuel delivery	Inventory is updated automatically	Fuel stock updates after confirmation.
+31	Supplier	View supply history	I can track previous supplies	Supply history is displayed.
+32	Supplier	Track payment status	I know whether I have been paid	Payment status (Pending/Paid) is shown.
+33	Supplier	Download delivery invoice	I can keep transaction records	Invoice can be generated and downloaded.
+34	Supplier	Update my supplier profile	My information remains up to date	Profile changes are saved successfully.
