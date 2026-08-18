@@ -1,8 +1,8 @@
-10	Delivery Personnel	Login to the system	I can access my dashboard	Valid credentials allow login.
-11	Delivery Personnel	View assigned deliveries	I know my assigned tasks	Assigned delivery requests are displayed.
-12	Delivery Personnel	View customer location	I can reach the destination easily	Customer address and contact information are available.
-13	Delivery Personnel	Update delivery status	Customers can track progress	Status updates are reflected immediately.
-14	Delivery Personnel	Report delivery issues	Problems are resolved quickly	Admin is notified after issue submission.
-15	Delivery Personnel	View completed delivery history	I can review my completed jobs	Delivery history is displayed.
-16	Delivery Personnel	View earnings	I can monitor my income	Earnings from completed deliveries are shown.
-17	Delivery Personnel	Update my availability status	Admin knows when I am available	Availability status is updated successfully.
+10. As a Delivery Personnel, I want to log in to the system so that I can access my dashboard.
+11. As a Delivery Personnel, I want to view assigned deliveries so that I know my assigned tasks.
+12. As a Delivery Personnel, I want to view customer locations so that I can reach the destination easily.
+13. As a Delivery Personnel, I want to update delivery status so that customers can track progress.
+14. As a Delivery Personnel, I want to report delivery issues so that problems are resolved quickly.
+15. As a Delivery Personnel, I want to view completed delivery history so that I can review my completed jobs.
+16. As a Delivery Personnel, I want to view my earnings so that I can monitor my income.
+17. As a Delivery Personnel, I want to update my availability status so that the Admin knows when I am available.
